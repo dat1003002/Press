@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|c:\\users\\admin\\documents\\project\\bangtai\\press\\press\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|solutionrelative:press\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\press\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|solutionrelative:press\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|c:\\users\\admin\\documents\\project\\bangtai\\press\\press\\lrxcyclicreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|solutionrelative:press\\lrxcyclicreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|c:\\users\\admin\\documents\\project\\bangtai\\press\\press\\properties\\nqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|solutionrelative:press\\properties\\nqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|c:\\users\\admin\\documents\\project\\bangtai\\press\\press\\lrxmessagewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|solutionrelative:press\\lrxmessagewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|c:\\users\\admin\\documents\\project\\bangtai\\press\\press\\model\\lrxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F7E6AE-9239-4AE1-BAFE-E10125CFDF41}|Press\\Press.csproj|solutionrelative:press\\model\\lrxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\Home.cs",
+              "RelativeDocumentMoniker": "Press\\Home.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\Home.cs [Design]",
+              "RelativeToolTip": "Press\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:19:37.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NqConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\Properties\\NqConfig.cs",
+              "RelativeDocumentMoniker": "Press\\Properties\\NqConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\Properties\\NqConfig.cs",
+              "RelativeToolTip": "Press\\Properties\\NqConfig.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:59:18.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\Home.cs",
+              "RelativeDocumentMoniker": "Press\\Home.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\Home.cs",
+              "RelativeToolTip": "Press\\Home.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAgwDYBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:01:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LrXCyclicReader.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\LrXCyclicReader.cs",
+              "RelativeDocumentMoniker": "Press\\LrXCyclicReader.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\LrXCyclicReader.cs",
+              "RelativeToolTip": "Press\\LrXCyclicReader.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:03:52.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LrXMessageWriter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\LrXMessageWriter.cs",
+              "RelativeDocumentMoniker": "Press\\LrXMessageWriter.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\LrXMessageWriter.cs",
+              "RelativeToolTip": "Press\\LrXMessageWriter.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:07:26.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LrXData.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\model\\LrXData.cs",
+              "RelativeDocumentMoniker": "Press\\model\\LrXData.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Project\\BANGTAI\\Press\\Press\\model\\LrXData.cs",
+              "RelativeToolTip": "Press\\model\\LrXData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:16:37.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
